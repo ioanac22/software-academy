@@ -1,1 +1,1 @@
-Prima linie din feature.txt .
+Acesta este un feature nou
